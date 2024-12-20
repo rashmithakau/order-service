@@ -1,4 +1,4 @@
-# Read Me First
+git# Read Me First
 The following was discovered as part of building this project:
 
 * The original package name 'com.LittleLanka.order-service' is invalid and this project uses 'com.LittleLanka.order_service' instead.
